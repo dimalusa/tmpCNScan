@@ -1,7 +1,7 @@
 {
-  "name": "scan",
+  "name": "staticResources",
   "version": "1.0.1",
-  "description": "Import scanner lib 12.3",
+  "description": "Static resources server",
   "private": false,
   "main": "index.js",
   "scripts": {
